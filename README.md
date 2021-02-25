@@ -1,7 +1,13 @@
 # Door Lock
-Door Lock con arduinoPara 
-Este pryecto se encuntra enfocado en una cerraduara electronica  los materiales que se han utilizado son: Arduino Uno, Servo Motor ,Modulo  Bluetooth HC 05, Resistencia, Cables, Protoboard. 
+
+Door Lock con arduino.
+
+Este pryecto se encuntra enfocado en una cerraduara electronica  los materiales que se han utilizado son: Arduino Uno, Servo Motor ,Modulo  Bluetooth HC 05, Resistencia, Cables, 
+
+Protoboard. 
+
 Para la realizacion del proyecto seguimos los siguientes pasos :
+
 1. Conecte el Arduino, el módulo Bluetooth y el servo como se muestra en el diagrama del circuito.
 
 2. Subimos el código de Arduino Sketch, el Arduino habiendo desconectado el pin RX primero antes de cargar el código o de lo contrario se obtendrá un error
