@@ -1,4 +1,4 @@
-# DonLEd
+# Door Lock
 Door Lock con arduinoPara 
 Este pryecto se encuntra enfocado en una cerraduara electronica  los materiales que se han utilizado son: Arduino Uno, Servo Motor ,Modulo  Bluetooth HC 05, Resistencia, Cables, Protoboard. 
 Para la realizacion del proyecto seguimos los siguientes pasos :
